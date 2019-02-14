@@ -1385,7 +1385,6 @@ body {
 .cid-ri2KkUEIcA {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/dunityevenementennoordwijk2016bg-2000x1125.png");
 }
 .cid-ri2KkUEIcA .media-container-row {
   flex-direction: row-reverse;
@@ -1416,14 +1415,6 @@ body {
 .cid-ri2KkUEIcA .mbr-section-btn {
   text-align: center;
 }
-.cid-ri2Yxf769k {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-ri2Yxf769k .mbr-text {
-  color: #767676;
-}
 .cid-ri2KgEECKM .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
@@ -1445,6 +1436,148 @@ body {
 .cid-ri2KgEECKM H1 {
   text-align: center;
   color: #fce800;
+}
+.cid-ri38bCYKPW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #271369;
+}
+.cid-ri38bCYKPW p {
+  color: #767676;
+}
+.cid-ri38bCYKPW .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-ri38bCYKPW .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-ri38bCYKPW .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-ri38bCYKPW .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-ri38bCYKPW .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-ri38bCYKPW .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-ri38bCYKPW H2 {
+  color: #d8c700;
+}
+.cid-ri38bCYKPW H4 {
+  color: #d8c700;
+}
+.cid-ri38bCYKPW .panel-text {
+  color: #d8c700;
+  text-align: center;
+}
+.cid-ri2Yxf769k {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #271369;
+}
+.cid-ri2Yxf769k .mbr-text {
+  color: #767676;
+}
+.cid-ri2Yxf769k .mbr-text P {
+  color: #d8c700;
+  text-align: center;
+}
+.cid-ri3aAH6TDz {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-ri3aAH6TDz p {
+  color: #767676;
+}
+.cid-ri3aAH6TDz .mbr-section-subtitle {
+  color: #d80922;
+}
+.cid-ri3aAH6TDz .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-ri3aAH6TDz .panel-group {
+  width: 100%;
+}
+.cid-ri3aAH6TDz .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-ri3aAH6TDz .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-ri3aAH6TDz .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-ri3aAH6TDz .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-ri3aAH6TDz .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-ri3aAH6TDz .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-ri3aAH6TDz .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+  padding-left: 0;
+  padding-right: 4rem;
+}
+.cid-ri3aAH6TDz .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+@media (max-width: 991px) {
+  .cid-ri3aAH6TDz .media-container-row {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+  .cid-ri3aAH6TDz .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-ri3aAH6TDz H2 {
+  color: #271369;
+}
+.cid-ri3aAH6TDz H4 {
+  color: #271369;
+  text-align: center;
+}
+.cid-ri3aAH6TDz .panel-text {
+  text-align: center;
+  color: #271369;
 }
 .cid-ri3434YjoR {
   padding-top: 90px;
