@@ -21,7 +21,7 @@
         "display5Size": 1.5,
         "display7Font": "Roboto Mono",
         "display7Size": 1,
-        "display4Font": "Rubik",
+        "display4Font": "Roboto Mono",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
