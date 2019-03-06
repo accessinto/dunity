@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Roboto Mono', monospace;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.76rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -660,13 +660,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Roboto Mono', monospace;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.76rem;
 }
 .form-control,
 .form-control:focus {
@@ -1598,7 +1598,7 @@ body {
 }
 .cid-rjSgSwacx2 .panel-text {
   text-align: center;
-  color: #000000;
+  color: #f7ed4a;
 }
 .cid-ri2Yxf769k {
   padding-top: 60px;
@@ -1728,4 +1728,37 @@ body {
 }
 .cid-ri30rT6aaC .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-rjVWCGFWRK {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #429142;
+}
+.cid-rjVWCGFWRK .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rjVWCGFWRK .image-block {
+  position: relative;
+  margin: auto;
+}
+.cid-rjVWCGFWRK .image-block img {
+  width: 100%;
+}
+.cid-rjVWCGFWRK .image-block .img-caption {
+  width: 100%;
+  padding: 1rem 1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cid-rjVWCGFWRK .image-block .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rjVWCGFWRK .mbr-text {
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rjVWCGFWRK .container-fluid {
+    padding: 0 1rem;
+  }
 }
