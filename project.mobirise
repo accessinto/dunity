@@ -74,8 +74,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Evenementen Kinderen 55+ Wandelvoetbal Noordwijk ZH | Dunity 2019",
-        "meta_descr": "Doe mee met de jaarlijkse evenementen voor kinderen en wandelvoetbal voor senioren (55+) Noordwijk ZH | Dunity 2019",
+        "title": "Dunity 2019 Evenementenorganisatie Activiteiten Noordwijk ZH ",
+        "meta_descr": "Dunity Stichting en Evenementenorganisatie 2019  activiteiten voor kinderen, senioren (55+) wandelvoetbal Noordwijk NL-ZH ",
         "header_custom": "<script type='application/ld+json'> \n{\n  \"@context\": \"http://www.schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Stichting Dunity\",\n  \"url\": \"https://dunity.nl\",\n  \"sameAs\": [\n    \"https://twitter.com/DunityNoordwijk\",\n    \"https://www.facebook.com/Dunity2016/\",\n    \"https://www.youtube.com/channel/UCLG-Xxorr9A9Ta4myEYtnrQ/videos\"\n  ],\n  \"logo\": \"https://res.cloudinary.com/accessinto/image/upload/v1550147822/evementenorganisatienoordwijkstichtingdunity.jpg\",\n  \"image\": \"https://res.cloudinary.com/accessinto/image/upload/c_crop,h_438,w_876/v1550147822/evementenorganisatienoordwijkstichtingdunity.jpg\",\n  \"description\": \"Dunity entertainment en evenementenorganisatie organiseert activiteiten voor kinderen en senioren in de gemeente Noordwijk Zuid-Holland Nederland.\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Wulk 5 \",\n    \"addressLocality\": \"Noordwijk\",\n    \"addressRegion\": \"Zuid-Holland\",\n    \"postalCode\": \"2201 VH\",\n    \"addressCountry\": \"Netherlands\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": \"52.227802084306\",\n    \"longitude\": \"4.4429477356681\"\n  },\n  \"openingHours\": \"Mo, Tu, We, Th, Fr 09:00-17:00\",\n  \"contactPoint\": {\n    \"@type\": \"ContactPoint\",\n    \"telephone\": \"+31(0)649528002\"\n  }\n}\n </script>",
         "footer_custom": "",
         "html_before": ""
