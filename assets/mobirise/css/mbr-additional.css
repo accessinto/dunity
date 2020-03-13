@@ -1501,13 +1501,13 @@ section.lazy-placeholder:after {
 .cid-rT8iA0QLKs {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #271369;
+  background-color: #ffffff;
 }
 .cid-rT8iA0QLKs .title {
   margin-bottom: 2rem;
 }
 .cid-rT8iA0QLKs .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rT8iA0QLKs a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1526,7 +1526,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rT8iA0QLKs H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rT8iA0QLKs LABEL {
   color: #ffffff;
