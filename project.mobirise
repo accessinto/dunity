@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dunity 2020 Jeugd Evenementen Noordwijk",
-    "currentPage": "index.html",
+    "currentPage": "noordwijk-muziek-evenementen.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -967,7 +967,7 @@
               }
             },
             "H1": {
-              "color": "#f6cf03",
+              "color": "#232323",
               "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
