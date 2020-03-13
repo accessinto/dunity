@@ -744,6 +744,39 @@ section.lazy-placeholder:after {
 .cid-ri2KkUEIcA .mbr-section-btn {
   text-align: center;
 }
+.cid-rGRZl2LY09 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f7ed4a;
+}
+.cid-rGRZl2LY09 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rGRZl2LY09 ul.list-inline {
+  margin: 0;
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-rGRZl2LY09 ul.list-inline li {
+  margin: 0;
+  padding: .5rem;
+}
+.cid-rGRZl2LY09 ul.list-inline img {
+  width: 100px;
+  height: 100px;
+}
+.cid-rGRZl2LY09 ul.list-inline img:hover {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+}
+@media (max-width: 767px) {
+  .cid-rGRZl2LY09 .list-inline-item img {
+    max-width: 301px;
+  }
+}
 .cid-rT773BVzAC {
   padding-top: 30px;
   padding-bottom: 60px;
@@ -784,7 +817,7 @@ section.lazy-placeholder:after {
 .cid-rGRZWn6wny {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #59bd58;
+  background-color: #c871d9;
 }
 .cid-rGRZWn6wny .mbr-section-subtitle {
   color: #767676;
@@ -940,64 +973,6 @@ section.lazy-placeholder:after {
   color: #d8c700;
   text-align: center;
 }
-.cid-rGRZl2LY09 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f7ed4a;
-}
-.cid-rGRZl2LY09 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rGRZl2LY09 ul.list-inline {
-  margin: 0;
-  -webkit-align-self: center;
-  align-self: center;
-}
-.cid-rGRZl2LY09 ul.list-inline li {
-  margin: 0;
-  padding: .5rem;
-}
-.cid-rGRZl2LY09 ul.list-inline img {
-  width: 100px;
-  height: 100px;
-}
-.cid-rGRZl2LY09 ul.list-inline img:hover {
-  -webkit-filter: none;
-  -moz-filter: none;
-  -ms-filter: none;
-  -o-filter: none;
-  filter: none;
-}
-@media (max-width: 767px) {
-  .cid-rGRZl2LY09 .list-inline-item img {
-    max-width: 301px;
-  }
-}
-.cid-ri2KgEECKM .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#271369, #271369);
-  border: none;
-}
-.cid-ri2KgEECKM .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-ri2KgEECKM .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-ri2KgEECKM .mbr-text,
-.cid-ri2KgEECKM .mbr-section-btn {
-  text-align: center;
-  color: #efefef;
-}
-.cid-ri2KgEECKM H1 {
-  text-align: center;
-  color: #f7ed4a;
-}
 .cid-rGRZqb36xV {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1030,39 +1005,6 @@ section.lazy-placeholder:after {
   .cid-rGRZqb36xV .list-inline-item img {
     max-width: 301px;
   }
-}
-.cid-ri3434YjoR {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/deejay-al-at-light-las-vegas-2013-900x600.jpeg");
-}
-.cid-ri3434YjoR .title {
-  margin-bottom: 2rem;
-}
-.cid-ri3434YjoR .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-ri3434YjoR a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-ri3434YjoR a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-ri3434YjoR .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-ri3434YjoR .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-ri3434YjoR H2 {
-  color: #ffffff;
-}
-.cid-ri3434YjoR LABEL {
-  color: #ffffff;
 }
 .cid-rGRZwRzHjI {
   padding-top: 0px;
@@ -1555,6 +1497,39 @@ section.lazy-placeholder:after {
 .cid-rT6HgXInp5 .mbr-text,
 .cid-rT6HgXInp5 .mbr-section-btn {
   text-align: center;
+}
+.cid-rT8iA0QLKs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #271369;
+}
+.cid-rT8iA0QLKs .title {
+  margin-bottom: 2rem;
+}
+.cid-rT8iA0QLKs .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rT8iA0QLKs a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rT8iA0QLKs a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rT8iA0QLKs .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rT8iA0QLKs .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-rT8iA0QLKs H2 {
+  color: #ffffff;
+}
+.cid-rT8iA0QLKs LABEL {
+  color: #ffffff;
 }
 .cid-rT6HgYkbgC {
   padding-top: 60px;
